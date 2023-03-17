@@ -1,9 +1,5 @@
-# API WHATSAPP
-
-
-
 ![logo-removebg-preview](https://user-images.githubusercontent.com/66129541/225798828-225c0c46-f101-4ebf-b869-2debc70c579a.png)
-
+# API WHATSAPP
 El proyecto consiste en el desarrollo de una API de WhatsApp que puede conectarse con Google Sheets para enviar mensajes automáticos a los números de teléfono que el usuario desee. La API puede ser una herramienta útil para empresas que buscan enviar mensajes a sus clientes, ya sea para recordatorios de reservas, ofertas especiales u otras promociones.
 
 Algunas de las características destacadas de esta API incluyen la capacidad de enviar mensajes personalizados a un gran número de destinatarios de manera simultánea, lo que ahorra tiempo y esfuerzo para las empresas. Además, la conexión con Google Sheets permite que los usuarios carguen fácilmente listas de contactos y programen los mensajes para que se envíen en momentos específicos.
