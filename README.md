@@ -10,7 +10,7 @@ Algunas de las características destacadas de esta API incluyen la capacidad de 
  ● Enviar notificaciones importantes a los empleados de la empresa.
  ● Realizar encuestas y recibir comentarios de los clientes a través de WhatsApp.
 
- 
+
  ## En resumen
 Esta API de WhatsApp es una herramienta altamente personalizable y flexible que puede adaptarse a las necesidades específicas de cada empresa. Su capacidad para conectarse con Google Sheets y enviar mensajes automáticos la convierte en una herramienta valiosa para empresas que buscan mejorar la comunicación con sus clientes y optimizar su flujo de trabajo interno.
 
@@ -32,8 +32,12 @@ La API de whatsapp puede conectarse a un Calendario que podes personalizar al 10
 ![image](https://user-images.githubusercontent.com/66129541/225802115-9be8b22c-95b3-4839-bdab-ef866c10bd9b.png)
 
 
-Desde este calendario podes agendar a tus clientes teniendo un mejor control, hora por hora.
-Se conecta a la API de whatsapp por medio de Google Cloud Services y envia un mensaje personalizado a los clientes agendados recordandoles del turno. 
+El calendario en Google Sheets proporciona una forma eficiente y organizada de programar citas con los clientes y controlar los horarios. Con esta herramienta, la empresa puede agendar los clientes y tener un registro de las citas en un mismo lugar, lo que facilita el seguimiento y la planificación de los recursos.
 
+Además, la API de WhatsApp se conecta a través de los servicios de Google Cloud, lo que permite enviar mensajes personalizados a los clientes agendados recordándoles su turno. De esta manera, la empresa puede asegurarse de que los clientes no olviden su cita y maximizar la cantidad de clientes que asisten a su establecimiento.
 
+En resumen, la integración de Google Sheets y la API de WhatsApp proporciona una solución completa y eficiente para programar citas y recordar a los clientes su turno. Esto no solo aumenta la satisfacción del cliente, sino que también ayuda a la empresa a maximizar sus ingresos al garantizar una alta tasa de asistencia de los clientes agendados.
 
+ # Archivos en el repositorio
+ dataTransform.py <--- Transformacion realizada al calendario para enviar solicitudes POST a nuestra API
+ 
